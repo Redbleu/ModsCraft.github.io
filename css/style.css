@@ -1,0 +1,28 @@
+body{
+    background: black
+}           
+backgrounds: red
+
+h1,h2,h3,h4,h5,h6{
+    margin: 0
+}
+
+
+.container {
+    width: 100%;
+    max-width:1200px;
+    margin: 0 auto
+}
+.intro{
+width: 100%;
+height: 600vh;
+background: url("..//images/12f2d843f320e42a7712bb806dc20970.jpg") center no-repeat ;
+-webkit- background-size: cover;
+background-size: cover;
+}
+.intro__title{
+ font-size: 150px;
+ font-weight: 700;
+ text-transform: uppercase
+font-color: red
+}
